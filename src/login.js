@@ -3,7 +3,6 @@ import Button from '@material-ui/core/Button';
 
 const styleArgument = {};
 
-
 const Login=()=>{
   return (
     <div>
@@ -28,7 +27,7 @@ const Login=()=>{
           variant="outlined"
         />
         <p></p>
-        <Button variant = "outlined" color ="primary" type="submit">sign in</Button>
+        
       </form>
     </div>
   )
